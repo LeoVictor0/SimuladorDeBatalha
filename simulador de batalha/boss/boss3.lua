@@ -6,6 +6,6 @@ boss3.maxHealth = 50
 boss3.health = 50
 boss3.attack = 5
 boss3.defense = 6
-boss3.speed = 0
+boss3.speed = 2
 
 return boss3

@@ -8,4 +8,6 @@ player2.attack = 6
 player2.defense = 6
 player2.speed = 4
 
+player2.Breath = 4
+
 return player2

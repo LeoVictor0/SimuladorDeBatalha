@@ -8,4 +8,6 @@ player1.attack = 4
 player1.defense = 3
 player1.speed = 4
 
+player1.kiBase = 3
+
 return player1

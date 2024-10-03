@@ -6,6 +6,6 @@ boss2.maxHealth = 50
 boss2.health = 50
 boss2.attack = 5
 boss2.defense = 6
-boss2.speed = 0
+boss2.speed = 2
 
 return boss2

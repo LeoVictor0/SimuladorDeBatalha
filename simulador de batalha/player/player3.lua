@@ -8,4 +8,6 @@ player3.attack = 3
 player3.defense = 4
 player3.speed = 3
 
+player3.mana = 5
+
 return player3
